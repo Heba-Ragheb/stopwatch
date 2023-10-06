@@ -1,0 +1,23 @@
+
+.contan{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(57, 7, 122);
+    color: aliceblue;
+    margin-left: 400px;
+    margin-right: 400px;
+    height: 250px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgba(2, 8, 65, 0.192);
+}
+button{
+    width: 130px;
+    margin: 5px;
+    height: 40px;
+    color: aliceblue;
+    background-color: rgba(128, 128, 128, 0.788);
+    border: none;
+    border-radius: 10px;
+}
